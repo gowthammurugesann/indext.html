@@ -1,0 +1,121 @@
+body{
+    background-color: black;
+}
+.container{
+    width: 1000px;
+    height: 2800px;
+    background-color: white;
+
+    
+
+}
+button{
+    color:rgb(255, 145, 0);
+    border-color:rgb(255, 145, 0);
+    border-radius: 5px;
+}
+.box{
+    width: 1010px;
+    padding-top:20px;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    
+
+
+    
+}
+.main{
+    width:1000px;
+    height:400px;
+    margin-left: -15px;
+    background-color: rgba(253, 190, 53, 1);
+    
+    
+    
+}
+.box1{
+    width: 450px;
+    height: 60px;
+    background-color: white;
+    margin-left: 80px;
+    margin-top: 30px;
+}
+p{
+    margin-left: 80px;
+}
+.box2{
+    width: 450px;
+    height: 60px;
+    background-color: white;
+    margin-left: 80px;
+    margin-top: 0px;
+}
+.main2{
+    width: 300px;
+    height: 50px;
+    justify-content: center;
+    margin-left: 100px;
+    
+}
+h3{
+    text-align: center;
+    margin-top:100px;
+    color: rgba(241, 114, 40, 1);
+}
+.rectangle{
+    font-size: 25px;
+    display: flex;
+    color:rgba(253, 190, 53, 1) ;
+    font-style:oblique;
+    padding-left: 100px;
+}
+h4{
+    padding-top: 200px;
+    padding-left: 50px;
+}
+.main3{
+display: flex;
+    width: 1000px;
+    height: 200px;
+    margin-left:-15px;
+    margin-top:100px ; 
+    white-space: 15px;
+    justify-content:space-around;
+   
+}
+.food-name{
+ display: inline-flex;
+ font-weight: 800;
+
+}
+.bag{
+    width: 250px;
+    height: 150px;;
+    margin-top:50px;
+    margin-left: 15px;
+    justify-content: space-around;
+    font-size: larger;
+    font-weight: bold;
+    background-color: rgb(228, 226, 224);
+}
+.bloddy-sweets{
+    text-align: center;
+    padding-top: 50px;
+    font-weight: 800;
+    
+}
+ 
+.inbox{
+    width: 1000px;
+    height: 490px;
+    background-color: aqua;
+    margin-left: -15px;
+}
+
+    
+
+
+
+
+
